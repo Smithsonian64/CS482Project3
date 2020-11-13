@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="444ecb1e-1c28-482a-84c6-c597f602b667" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kFJg9aaahQAUDoxN1USFA3pAPx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../php" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shelt\PhpstormProjects\CS482Project3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="444ecb1e-1c28-482a-84c6-c597f602b667" name="Default Changelist" comment="" />
+      <created>1605290516377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605290516377</updated>
+      <workItem from="1605290522672" duration="7086000" />
+      <workItem from="1605297792193" duration="10091000" />
+      <workItem from="1605307999561" duration="134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="112" key="#CLI_Interpreters" timestamp="1605300812054">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="266" y="112" key="#CLI_Interpreters/0.0.1368.912@0.0.1368.912" timestamp="1605300812054" />
+    <state x="390" y="99" key="#PHP" timestamp="1605300914092">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="390" y="99" key="#PHP/0.0.1368.912@0.0.1368.912" timestamp="1605300914092" />
+    <state x="368" y="91" key="#SSH_Configurations" timestamp="1605297548336">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="368" y="91" key="#SSH_Configurations/0.0.1368.912@0.0.1368.912" timestamp="1605297548336" />
+    <state x="277" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605295381533">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="277" y="114" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.912@0.0.1368.912" timestamp="1605295381533" />
+    <state x="572" y="201" key="FileChooserDialogImpl" timestamp="1605300850700">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="572" y="201" key="FileChooserDialogImpl/0.0.1368.912@0.0.1368.912" timestamp="1605300850700" />
+    <state width="907" height="239" key="GridCell.Tab.0.bottom" timestamp="1605300293771">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="907" height="239" key="GridCell.Tab.0.bottom/0.0.1368.912@0.0.1368.912" timestamp="1605300293771" />
+    <state width="907" height="239" key="GridCell.Tab.0.center" timestamp="1605300293771">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="907" height="239" key="GridCell.Tab.0.center/0.0.1368.912@0.0.1368.912" timestamp="1605300293771" />
+    <state width="907" height="239" key="GridCell.Tab.0.left" timestamp="1605300293771">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="907" height="239" key="GridCell.Tab.0.left/0.0.1368.912@0.0.1368.912" timestamp="1605300293771" />
+    <state width="907" height="239" key="GridCell.Tab.0.right" timestamp="1605300293771">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="907" height="239" key="GridCell.Tab.0.right/0.0.1368.912@0.0.1368.912" timestamp="1605300293771" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1605293748954">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1368.912@0.0.1368.912" timestamp="1605293748954" />
+    <state x="519" y="379" key="NewPhpFileDialog" timestamp="1605291823700">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="519" y="379" key="NewPhpFileDialog/0.0.1368.912@0.0.1368.912" timestamp="1605291823700" />
+    <state x="224" y="99" key="SettingsEditor" timestamp="1605308133112">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="224" y="99" key="SettingsEditor/0.0.1368.912@0.0.1368.912" timestamp="1605308133112" />
+    <state x="532" y="340" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605300903780">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="532" y="340" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1368.912@0.0.1368.912" timestamp="1605300903780" />
+    <state x="620" y="185" key="ftp.server.browser" timestamp="1605300901973">
+      <screen x="0" y="0" width="1368" height="912" />
+    </state>
+    <state x="620" y="185" key="ftp.server.browser/0.0.1368.912@0.0.1368.912" timestamp="1605300901973" />
+  </component>
+</project>
